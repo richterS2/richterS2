@@ -1,12 +1,12 @@
 # Daniel Richter
 
 Senior Mobile Engineer 
-Focused on scalable mobile applications, AI integrations and product development.
+, focused on scalable mobile applications, AI integrations and product development.
 
 ## 🚀 Tech Stack
 - Flutter
-- Androis (Java and Kotlin)
-- iOs (objectveC and Swift)
+- Native Android (Java and Kotlin)
+- Native iOs (objectveC and Swift)
 - React and React Native
 - Dart
 - Firebase
