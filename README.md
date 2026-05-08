@@ -22,7 +22,7 @@ The projects below were fully designed, architected and led by me — including 
 
 iOs:
 - [Easy Money | Finance Manager](https://apps.apple.com/us/app/easy-money-finance-manager/id6758461279)
-- [Magic Block](https://apps.apple.com/us/app/proterlink-magic-block/id6756894468)
+- [Magic Block](https://apps.apple.com/br/app/proterlink-magic-block/id6756894468)
 - [Tury | Fast Max](https://apps.apple.com/us/app/fast-max/id1513677327)
 - [bPower | Pedal](https://apps.apple.com/us/app/bpower-pedal/id6446786723)
 - [Monarch | Guardian I](https://apps.apple.com/us/app/guardian-i/id6741247794)
