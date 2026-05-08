@@ -1,15 +1,21 @@
 # Daniel Richter
 
-Senior Flutter Engineer focused on scalable mobile applications, AI integrations and product development.
+Senior Mobile Engineer 
+Focused on scalable mobile applications, AI integrations and product development.
 
 ## 🚀 Tech Stack
 - Flutter
+- Androis (Java and Kotlin)
+- iOs (objectveC and Swift)
+- Flutter
+- React Native
 - Dart
 - Firebase
 - Supabase
 - Node.js
 - GitHub Actions
 - Clean Architecture
+  
 
 ## 📱 Featured Projects
 - VIP Apps Platform
@@ -19,13 +25,17 @@ Senior Flutter Engineer focused on scalable mobile applications, AI integrations
 - bPower | Pedal
 - Monarch | Guardian I
 
+
 ## 🌎 Open to
 - Remote opportunities
 - International teams
 - Freelance projects
 - SaaS development
 
+
 ## 📫 Contact
-- LinkedIn
-- Email
-- Portfolio
+- www.linkedin.com/in/daniel-richter-
+- daniel@vipappers.com
+- richters2@gmail.com
+- daniel.richter_2016@icloud.com
+
