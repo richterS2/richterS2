@@ -1,16 +1,31 @@
-## Hi there 👋
+# Daniel Richter
 
-<!--
-**richterS2/richterS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Flutter Engineer focused on scalable mobile applications, AI integrations and product development.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Flutter
+- Dart
+- Firebase
+- Supabase
+- Node.js
+- GitHub Actions
+- Clean Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Featured Projects
+- VIP Apps Platform
+- Easy Money
+- Magic Block
+- Tury | Fast Max
+- bPower | Pedal
+- Monarch | Guardian I
+
+## 🌎 Open to
+- Remote opportunities
+- International teams
+- Freelance projects
+- SaaS development
+
+## 📫 Contact
+- LinkedIn
+- Email
+- Portfolio
