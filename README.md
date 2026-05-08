@@ -16,13 +16,20 @@ Senior Mobile Engineer
 - Clean Architecture
   
 
-## 📱 Featured Projects
-- VIP Appers Platform
-- Easy Money
+## 📱 Featured Products & Technical Leadership
+
+The projects below were fully designed, architected and led by me — including product definition, technical decisions, application structure and core development.
+
+- Easy Money | Finance Manager
 - Magic Block
 - Tury | Fast Max
 - bPower | Pedal
 - Monarch | Guardian I
+- VIP Appers Platform
+
+## 🤝 Additional Collaborations
+
+Besides the products above, I also contribute to multiple client and partner projects, working on specific features, architecture improvements, integrations and scalable web or mobile solutions.
 
 
 ## 🌎 Open to
