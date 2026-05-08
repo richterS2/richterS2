@@ -20,13 +20,21 @@ Senior Mobile Engineer
 
 The projects below were fully designed, architected and led by me — including product definition, technical decisions, application structure and core development.
 
-- Easy Money | Finance Manager
-- Magic Block
-- Tury | Fast Max
-- bPower | Pedal
-- Monarch | Guardian I
-- VIP Appers Platform
+iOs:
+- [Easy Money | Finance Manager](https://apps.apple.com/)
+- [Magic Block](https://play.google.com/)
+- [Tury | Fast Max](https://play.google.com/)
+- [bPower | Pedal](https://apps.apple.com/)
+- [Monarch | Guardian I]([https://play.google.com/](https://play.google.com/store/apps/details?id=vip_appers.monarch_android))
 
+Android:
+- [Easy Money | Finance Manager](https://apps.apple.com/)
+- [Magic Block](https://play.google.com/)
+- [Tury | Fast Max](https://play.google.com/)
+- [bPower | Pedal](https://apps.apple.com/)
+- [Monarch | Guardian I]([https://play.google.com/](https://play.google.com/store/apps/details?id=vip_appers.monarch_android))
+
+  
 ## 🤝 Additional Collaborations
 
 Besides the products above, I also contribute to multiple client and partner projects, working on specific features, architecture improvements, integrations and scalable web or mobile solutions.
