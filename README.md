@@ -25,14 +25,14 @@ iOs:
 - [Magic Block](https://play.google.com/)
 - [Tury | Fast Max](https://play.google.com/)
 - [bPower | Pedal](https://apps.apple.com/)
-- [Monarch | Guardian I]([https://play.google.com/](https://play.google.com/store/apps/details?id=vip_appers.monarch_android))
+- [Monarch | Guardian I]
 
 Android:
 - [Easy Money | Finance Manager](https://apps.apple.com/)
 - [Magic Block](https://play.google.com/)
 - [Tury | Fast Max](https://play.google.com/)
 - [bPower | Pedal](https://apps.apple.com/)
-- [Monarch | Guardian I]([https://play.google.com/](https://play.google.com/store/apps/details?id=vip_appers.monarch_android))
+- [Monarch | Guardian I](https://play.google.com/store/apps/details?id=vip_appers.monarch_android))
 
   
 ## 🤝 Additional Collaborations
