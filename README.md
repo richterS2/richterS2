@@ -7,8 +7,7 @@ Focused on scalable mobile applications, AI integrations and product development
 - Flutter
 - Androis (Java and Kotlin)
 - iOs (objectveC and Swift)
-- Flutter
-- React Native
+- React and React Native
 - Dart
 - Firebase
 - Supabase
