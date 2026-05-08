@@ -18,7 +18,7 @@ Focused on scalable mobile applications, AI integrations and product development
   
 
 ## 📱 Featured Projects
-- VIP Apps Platform
+- VIP Appers Platform
 - Easy Money
 - Magic Block
 - Tury | Fast Max
