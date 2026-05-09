@@ -4,15 +4,16 @@ Senior Mobile Engineer
 , focused on scalable mobile applications, AI integrations and product development.
 
 ## 🚀 Tech Stack
+- Flutter
+- React and React Native
 - Native Android (Java and Kotlin)
 - Native iOs (objectveC and Swift)
-- React and React Native
-- Flutter
+
 - Dart
+- Node.js
+- Next.js
 - Firebase
 - Supabase
-- Node.js
-- GitHub Actions
 - Clean Architecture
   
 
